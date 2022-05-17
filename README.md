@@ -9,13 +9,13 @@ orange3를 사랑하는 김수민
 유사모에서 열심히 열일중..
 
 
-### 😎Skills
+### 🖥️ Skills
 #### Languages
  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black"/> <img alt="Css" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/nodejs-339933.svg?&style=flat-square&logo=Node.js&logoColor=white"/> 
 
 #### Tools
 <img  alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img  alt="Visual Studio Code" src ="https://img.shields.io/badge/VScode-007ACC.svg?&style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img  alt="MySQL" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> <img  alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/> 
 
-### Repositrories
+### ⌨️ Repositrories
 study - 공부 및 정리    
 project - 팀 및 개인, 텀 프로젝트
