@@ -17,5 +17,3 @@ orange3를 사랑하는 김수민
 
 ### ⌨️ Repositrories
 #### study & project
-study - 공부 및 정리    
-project - 팀 및 개인, 텀 프로젝트
